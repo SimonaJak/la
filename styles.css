@@ -150,7 +150,7 @@
     height: clamp(17.5rem, 58.6vw, 31.875rem);
     margin-bottom: clamp(1rem, 2vw, 1.25rem); 
     display: block;
-    position: relative;
+    position: relative; 
   }
     .hero-image img {
     width: 100%;
