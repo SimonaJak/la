@@ -108,8 +108,8 @@
     font-weight: 700;
     line-height: clamp(2.875rem, 5.5vw, 3.5rem);
     text-align: center;
-    text-decoration: none;
-    min-width: 9.375rem;
+    text-decoration: none; 
+    min-width: 9.375rem; 
     padding: 0 clamp(2rem, 4vw, 3rem);
     background-color: var(--primary);
     color: var(--body-text-color-white);
