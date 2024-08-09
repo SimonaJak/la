@@ -1,10 +1,10 @@
 :root {
-    --primary: #ff6a3e;
-    --primary-light: #ffba43;
-    --secondary: #ffba43;
-    --secondary-light: #ffba43;
+    --primary-light:#4b3c40;
+    --primary:#4b3c40;
+    --secondary: #4e4b66;
+    --secondary-light: #4e4b66;
     --header-color: #1a1a1a;
-    --body-text-color: #4e4b66;
+    --body-text-color: #4b3c40;
     --body-text-color-white: #fafbfc;
     --header-font-size: clamp(1.9375rem, 3.9vw, 3.0625rem);
     --body-font-size: 1rem;
@@ -41,8 +41,8 @@
   }
   
   .logo img {
-    height: 40px;
-    margin-right: 10px;
+    height: 80px;
+    margin-right: 30px;
   }
   
   .logo span {
